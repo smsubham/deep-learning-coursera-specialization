@@ -11,7 +11,7 @@ Problem 1: <br>
 <br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20numpy.md">Statement:</a>
 <br>
-<a href=" https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%202/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb">Solution</a>
+<a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%202/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb">Solution</a>
 <br>
 Problem 1: <br>
 <br>
@@ -19,8 +19,6 @@ Problem 1: <br>
 <br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%202/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb">Solution</a>
 <br> 
-
-
 Week 3: <br>
 Problem 1:<br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer.md">Statement:</a>
@@ -29,13 +27,13 @@ Problem 1:<br>
 <br>
 
 Week 4: <br>
-Problem 1: <br>
+Problem 1:
 <br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20Step%20by%20Step.md">Statement:</a>
 <br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%204/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb">Solution</a>
 <br>
-Problem 2: <br>
+Problem 2:
 <br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20-%20Application.md">Statement:</a>
 <br>
