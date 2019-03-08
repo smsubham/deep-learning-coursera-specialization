@@ -8,13 +8,11 @@ Course 1: Neural Networks and Deep Learning <br>
 This course has assignment where we do classification of cats from others using Logistic Regression, Deep Neural Network etc. (separately). Also we can clearly see in it how using Deep Neural Network we are able to drastically improve performance of our CAT classification tool.
 Week 2: <br>
 Problem 1: <br>
-<br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20numpy.md">Statement:</a>
 <br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%202/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb">Solution</a>
 <br>
-Problem 1: <br>
-<br>
+Problem 2: <br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.md">Statement:</a>
 <br>
 <a href="https://github.com/smsubham/deep-learning-coursera-specialization/blob/master/Course%201%20Neural%20Network%20and%20Deep%20Learning/Week%202/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb">Solution</a>
